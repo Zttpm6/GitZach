@@ -27,6 +27,7 @@ int main() {
 		cout << "For Leap Year --2"<< endl << "For Maximum--3"<<endl;
 		cout << "For Division-- 4"<< endl << "For Exit --5" << endl; // prints
 		cin >> num;
+		cout << "Git hub practice" << endl;
 		while(num > 5 || num < 1)
 		{
 			cin >> num;
