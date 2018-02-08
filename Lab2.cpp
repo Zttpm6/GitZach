@@ -28,6 +28,7 @@ int main() {
 		cout << "For Division-- 4"<< endl << "For Exit --5" << endl; // prints
 		cin >> num;
 		cout << "Git hub practice" << endl;
+		printf("This is a test comment\n");
 		while(num > 5 || num < 1)
 		{
 			cin >> num;
