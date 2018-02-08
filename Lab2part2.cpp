@@ -21,6 +21,7 @@ int main() {
 	int remain = 0;
 	int i = 1;
 	cout << "Enter a decimal number:"; // prints
+	cout << "Test for github"<< endl;
 	cin >> dec;
 	while(0 > dec || dec >65535)
 	{
